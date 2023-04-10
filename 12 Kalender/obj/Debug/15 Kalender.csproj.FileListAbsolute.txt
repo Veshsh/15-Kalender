@@ -1,0 +1,46 @@
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\bin\Debug\12 Kalender.exe.config
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\bin\Debug\12 Kalender.exe
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\bin\Debug\12 Kalender.pdb
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\15 Kalender.csproj.AssemblyReference.cache
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\15 Kalender.csproj.SuggestedBindingRedirects.cache
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\MainWindow.g.cs
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\App.g.cs
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\12 Kalender_MarkupCompile.cache
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\12 Kalender_MarkupCompile.lref
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\MainWindow.baml
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\12 Kalender.g.resources
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\_12_Kalender.Properties.Resources.resources
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\15 Kalender.csproj.GenerateResource.cache
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\15 Kalender.csproj.CoreCompileInputs.cache
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\12 Kalender.exe
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\12 Kalender.pdb
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\Chuse.g.cs
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\Chuse.baml
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\CONT.g.cs
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\CONT.baml
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\veshsh\source\repos\12 Kalender\12 Kalender\obj\Debug\15 Kalender.csproj.CopyComplete
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\bin\Debug\12 Kalender.exe.config
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\bin\Debug\12 Kalender.exe
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\bin\Debug\12 Kalender.pdb
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\15 Kalender.csproj.AssemblyReference.cache
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\15 Kalender.csproj.SuggestedBindingRedirects.cache
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\Chuse.g.cs
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\CONT.g.cs
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\MainWindow.g.cs
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\App.g.cs
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\12 Kalender_MarkupCompile.cache
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\12 Kalender_MarkupCompile.lref
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\Chuse.baml
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\CONT.baml
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\MainWindow.baml
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\12 Kalender.g.resources
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\_12_Kalender.Properties.Resources.resources
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\15 Kalender.csproj.GenerateResource.cache
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\15 Kalender.csproj.CoreCompileInputs.cache
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\15 Kalender.csproj.CopyComplete
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\12 Kalender.exe
+C:\Users\veshsh\source\repos\15 Kalender\12 Kalender\obj\Debug\12 Kalender.pdb

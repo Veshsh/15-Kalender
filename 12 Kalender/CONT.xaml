@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="_12_Kalender.CONT"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:_12_Kalender">
+    <Grid>
+        <Button Name="BT" Grid.RowSpan="2" VerticalContentAlignment="Top">
+            <Button.Content>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="2*"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock x:Name="MN" HorizontalAlignment="Center"/>
+                <Image x:Name="IMG" Source="/0.png" Grid.Row="1"/>
+                </Grid>
+            </Button.Content>
+        </Button>
+    </Grid>
+</UserControl>
