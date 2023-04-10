@@ -72,12 +72,14 @@ namespace _12_Kalender
         {
             if (MC.Content == null)
             {
+                DataPicin.IsEnabled = true;
                 DataPicin_SelectedDateChanged();
                 Grid.SetColumnSpan(DataPicin, 1);
             }
             else
             {
                 Grid.SetColumnSpan(DataPicin, 2);
+                DataPicin.IsEnabled = false;
             }
         }
     }
