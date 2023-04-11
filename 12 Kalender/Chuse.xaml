@@ -50,6 +50,11 @@
                     <Image Width="50" Height="50" Source="/6.png"/>
                 </CheckBox.Content>
             </CheckBox>
+            <CheckBox>
+                <CheckBox.Content>
+                    <Image Width="50" Height="50" Source="/7.png"/>
+                </CheckBox.Content>
+            </CheckBox>
         </ListBox>
         <Button Content="Сохранить" Grid.ColumnSpan="3" Grid.Row="2" Click="Button_Clicks"/>
         <Button Click="Button_Click">
