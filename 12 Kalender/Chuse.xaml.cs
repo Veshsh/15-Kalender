@@ -28,7 +28,7 @@ namespace _12_Kalender
                 if (Serializer.saves[i].Date == Serializer.save.Date)
                 {
                     checitem = i;
-                    for (int l = 0; l < Serializer.saves[i].Chus.Count; l++)
+                    for (int l = 0; l < ((Serializer.saves[i].Chus.Count<LI.Items.Count)? Serializer.saves[i].Chus.Count: LI.Items.Count); l++)
                     {
                         CheckBox checkBox = new CheckBox();
                         if (LI.Items[l] is CheckBox)
